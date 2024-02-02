@@ -1,0 +1,16 @@
+{
+  "name": "node-farm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "Fhatuwani Mulaudzi",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.0.3",
+    "slugify": "^1.6.6"
+  }
+}
